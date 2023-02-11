@@ -14,6 +14,7 @@
 		4764E14C2996F5DF00EC982A /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E14B2996F5DF00EC982A /* TextBootCamp.swift */; };
 		4764E1502996FCE000EC982A /* ShapsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E14F2996FCE000EC982A /* ShapsBootcamp.swift */; };
 		4764E1522997057E00EC982A /* ColorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E1512997057E00EC982A /* ColorBootCamp.swift */; };
+		4764E1542997F24500EC982A /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E1532997F24500EC982A /* GradientBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		4764E14B2996F5DF00EC982A /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
 		4764E14F2996FCE000EC982A /* ShapsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapsBootcamp.swift; sourceTree = "<group>"; };
 		4764E1512997057E00EC982A /* ColorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootCamp.swift; sourceTree = "<group>"; };
+		4764E1532997F24500EC982A /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				4764E1412996F55300EC982A /* Assets.xcassets */,
 				4764E1432996F55300EC982A /* Preview Content */,
 				4764E1512997057E00EC982A /* ColorBootCamp.swift */,
+				4764E1532997F24500EC982A /* GradientBootcamp.swift */,
 			);
 			path = swiftuibootcamp;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				4764E13E2996F55100EC982A /* swiftuibootcampApp.swift in Sources */,
 				4764E1522997057E00EC982A /* ColorBootCamp.swift in Sources */,
 				4764E1502996FCE000EC982A /* ShapsBootcamp.swift in Sources */,
+				4764E1542997F24500EC982A /* GradientBootcamp.swift in Sources */,
 				4764E14C2996F5DF00EC982A /* TextBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
