@@ -24,6 +24,7 @@ struct ImagesBootcamp: View {
 //                Rectangle()
 //                RoundedRectangle(cornerRadius: 24)
             )
+//        Image(systemName: "square.and.arrow.up")
     }
 }
 
