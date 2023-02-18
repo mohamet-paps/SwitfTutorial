@@ -20,6 +20,7 @@
 		477F9B9E299AEE420058B36C /* FrameBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477F9B9D299AEE420058B36C /* FrameBootCamp.swift */; };
 		477F9BA0299AF6C60058B36C /* BackgroundBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477F9B9F299AF6C60058B36C /* BackgroundBootcamp.swift */; };
 		47A84D4C299FAC8E006F4DCF /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A84D4B299FAC8E006F4DCF /* StacksBootcamp.swift */; };
+		47A84D4E29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		477F9B9D299AEE420058B36C /* FrameBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootCamp.swift; sourceTree = "<group>"; };
 		477F9B9F299AF6C60058B36C /* BackgroundBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundBootcamp.swift; sourceTree = "<group>"; };
 		47A84D4B299FAC8E006F4DCF /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpaccerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4764E13D2996F55100EC982A /* swiftuibootcampApp.swift */,
 				4764E14B2996F5DF00EC982A /* TextBootCamp.swift */,
 				477F9B9D299AEE420058B36C /* FrameBootCamp.swift */,
+				47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */,
 				4764E157299925BA00EC982A /* ImagesBootcamp.swift */,
 				4764E1552999215500EC982A /* IconsBootcamp.swift */,
 				47A84D4B299FAC8E006F4DCF /* StacksBootcamp.swift */,
@@ -168,6 +171,7 @@
 				4764E13E2996F55100EC982A /* swiftuibootcampApp.swift in Sources */,
 				4764E158299925BA00EC982A /* ImagesBootcamp.swift in Sources */,
 				4764E1522997057E00EC982A /* ColorBootCamp.swift in Sources */,
+				47A84D4E29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift in Sources */,
 				4764E1502996FCE000EC982A /* ShapsBootcamp.swift in Sources */,
 				4764E1542997F24500EC982A /* GradientBootcamp.swift in Sources */,
 				4764E14C2996F5DF00EC982A /* TextBootCamp.swift in Sources */,
