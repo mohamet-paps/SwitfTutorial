@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		470BA6A829A4F5C300E6A496 /* ForeachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470BA6A729A4F5C300E6A496 /* ForeachBootcamp.swift */; };
 		4764E13E2996F55100EC982A /* swiftuibootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E13D2996F55100EC982A /* swiftuibootcampApp.swift */; };
 		4764E1402996F55100EC982A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764E13F2996F55100EC982A /* ContentView.swift */; };
 		4764E1422996F55300EC982A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4764E1412996F55300EC982A /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		470BA6A729A4F5C300E6A496 /* ForeachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootcamp.swift; sourceTree = "<group>"; };
 		4764E13A2996F55100EC982A /* swiftuibootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftuibootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4764E13D2996F55100EC982A /* swiftuibootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftuibootcampApp.swift; sourceTree = "<group>"; };
 		4764E13F2996F55100EC982A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				4764E14B2996F5DF00EC982A /* TextBootCamp.swift */,
 				477F9B9D299AEE420058B36C /* FrameBootCamp.swift */,
 				47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */,
+				470BA6A729A4F5C300E6A496 /* ForeachBootcamp.swift */,
 				47A84D4F29A141CA006F4DCF /* SpacerBootcamp.swift */,
 				4764E157299925BA00EC982A /* ImagesBootcamp.swift */,
 				4764E1552999215500EC982A /* IconsBootcamp.swift */,
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4764E1402996F55100EC982A /* ContentView.swift in Sources */,
+				470BA6A829A4F5C300E6A496 /* ForeachBootcamp.swift in Sources */,
 				4764E13E2996F55100EC982A /* swiftuibootcampApp.swift in Sources */,
 				4764E158299925BA00EC982A /* ImagesBootcamp.swift in Sources */,
 				4764E1522997057E00EC982A /* ColorBootCamp.swift in Sources */,

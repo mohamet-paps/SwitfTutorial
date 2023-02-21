@@ -14,7 +14,6 @@ struct SpacerBootcamp: View {
               Image(systemName: "xmark")
                 Spacer()
                 Image(systemName: "gear")
-                   
             }
             .padding(.horizontal)
             .foregroundColor(.gray)
