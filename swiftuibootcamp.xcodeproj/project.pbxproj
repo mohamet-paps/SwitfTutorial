@@ -24,6 +24,7 @@
 		47A84D4E29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */; };
 		47A84D5029A141CA006F4DCF /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A84D4F29A141CA006F4DCF /* SpacerBootcamp.swift */; };
 		47CE0AF129A79C83001753F9 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47CE0AF029A79C83001753F9 /* ScrollViewBootcamp.swift */; };
+		47CE0AF329A7A1E2001753F9 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47CE0AF229A7A1E2001753F9 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		47A84D4D29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpaccerBootcamp.swift; sourceTree = "<group>"; };
 		47A84D4F29A141CA006F4DCF /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		47CE0AF029A79C83001753F9 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		47CE0AF229A7A1E2001753F9 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				47A84D4F29A141CA006F4DCF /* SpacerBootcamp.swift */,
 				4764E157299925BA00EC982A /* ImagesBootcamp.swift */,
 				47CE0AF029A79C83001753F9 /* ScrollViewBootcamp.swift */,
+				47CE0AF229A7A1E2001753F9 /* GridBootcamp.swift */,
 				4764E1552999215500EC982A /* IconsBootcamp.swift */,
 				47A84D4B299FAC8E006F4DCF /* StacksBootcamp.swift */,
 				477F9B9F299AF6C60058B36C /* BackgroundBootcamp.swift */,
@@ -184,6 +187,7 @@
 				47A84D4E29A13BA2006F4DCF /* PaddingAndSpaccerBootcamp.swift in Sources */,
 				4764E1502996FCE000EC982A /* ShapsBootcamp.swift in Sources */,
 				4764E1542997F24500EC982A /* GradientBootcamp.swift in Sources */,
+				47CE0AF329A7A1E2001753F9 /* GridBootcamp.swift in Sources */,
 				4764E14C2996F5DF00EC982A /* TextBootCamp.swift in Sources */,
 				4764E1562999215500EC982A /* IconsBootcamp.swift in Sources */,
 				47A84D4C299FAC8E006F4DCF /* StacksBootcamp.swift in Sources */,
